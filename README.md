@@ -1,2 +1,2 @@
-# lock-
-lock to brushup my Html Css skill. Very small project
+# lock-desgin
+lock-design project to brushup my Html Css skill. Very small project
